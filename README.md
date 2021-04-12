@@ -7,7 +7,7 @@
 # 🛰️
 
 Implementado o uso do tema Dark-Mode...
-Pode testar a aplicação neste link: https://nlw4-calcjob.herokuapp.com/
+
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -25,7 +25,7 @@ Pode testar a aplicação neste link: https://nlw4-calcjob.herokuapp.com/
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/jobscalc.png" width="100%">
+  <img alt="dev.finances" src="github/jobscalc.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
